@@ -24,7 +24,7 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 
 -->
 
-# Connect with Me
+#🌐 Connect with Me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ila8262008@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ila8262008@gmail.com)
 
