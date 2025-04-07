@@ -8,3 +8,6 @@ Telegram : @Ox_Pynex
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pynex&theme=react&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pynex&limit=5&theme=dark&combine_all_yearly_contributions=true)
