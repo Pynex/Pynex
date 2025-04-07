@@ -11,8 +11,8 @@ Telegram : @Parad1se_Ilya
 [![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/en/)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pynex&theme=react&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pynex&theme=react&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
