@@ -3,8 +3,8 @@
 # 💫 About Me:
 Hi, I'm Ilya, a blockchain developer specializing in Solidity and smart contract development.
 I'm particularly interested in DeFi and exploring new possibilities with Web3 technologies.<br/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjbWlrbzBwbzJkbWsybnZkanYyNGFncnNxaTdnaDJmMzUwaXVoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKIC2MFyfUfrz3n/giphy.gif" width="75"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFpc244NmZlYWc4Y2ppOGZmd25hczB4OHk3NzZ1ZmVrdXJhZzJnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iuOsonutpp56lAyInN/giphy.gif" width="75">
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjbWlrbzBwbzJkbWsybnZkanYyNGFncnNxaTdnaDJmMzUwaXVoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKIC2MFyfUfrz3n/giphy.gif" width="75"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVkZXU3enY2Y2hlejFwZGd0bG16ZXUwYnJ6ZXcxY3FtMWwzN2syZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuOsonutpp56lAyInN/giphy.gif" width="75"> 
 
 # Connect with Me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
