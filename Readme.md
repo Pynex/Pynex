@@ -34,6 +34,7 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Foundry](https://img.shields.io/badge/Foundry-%23FF4400?style=for-the-badge&logo=none)](https://getfoundry.sh/)
 [![Foundry](https://img.shields.io/badge/Foundry-gray.svg?color=28a745&style=for-the-badge&logo=none)](https://getfoundry.sh/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-orange.svg?color=orange&style=for-the-badge&logo=none)](https://hardhat.org/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/en/)
