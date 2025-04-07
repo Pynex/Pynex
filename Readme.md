@@ -1,5 +1,8 @@
 # 💫 About Me:
+Hi, I'm Ilya, a blockchain developer specializing in Solidity and smart contract development.
+I'm particularly interested in DeFi and exploring new possibilities with Web3 technologies.
 Telegram : @Parad1se_Ilya
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
 
 # 💻 Tech Stack
 
