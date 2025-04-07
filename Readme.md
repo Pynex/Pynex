@@ -7,7 +7,8 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 # Connect with Me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
 
-![Tech Stack GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E1YmR2ZGdyN2RiMndkZ2p1Y3AzZGhybTMyYWJoOG10cnRoMGFhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iuOsonutpp56lAyInN/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjbWlrbzBwbzJkbWsybnZkanYyNGFncnNxaTdnaDJmMzUwaXVoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKIC2MFyfUfrz3n/giphy.gif" width="300">
+
 # 💻 Tech Stack
 
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
