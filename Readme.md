@@ -6,6 +6,10 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjbWlrbzBwbzJkbWsybnZkanYyNGFncnNxaTdnaDJmMzUwaXVoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L59aKIC2MFyfUfrz3n/giphy.gif" width="75"> 
 <img src="https://media.giphy.com/media/HifsMXFLaRsmQlx8jo/giphy.gif?cid=790b7611bxp0rndbljt0m4z96sjs1pyvk78bgjb4fk0f2x5v&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcTY1OTFkeXZ3Zmt1YWZhOGR2cThwbXYzMm9uaDJvaWFuOWdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ho0xXatV7b3Fo1ZRXN/giphy.gif" width="100"> 
+<img src="https://media.giphy.com/media/1jOoLUdkTYQhetVky1/giphy.gif?cid=ecf05e47i1kaocanlsuddpnssx8c0nqhwy1vpiirq01n43id&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> 
+<img src="" width="100"> 
+<img src="" width="100"> 
+<img src="" width="100"> 
 
 # Connect with Me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
