@@ -1,9 +1,18 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 # 💫 About Me:
 Hi, I'm Ilya, a blockchain developer specializing in Solidity and smart contract development.
 I'm particularly interested in DeFi and exploring new possibilities with Web3 technologies.
 
 # Connect with Me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parad1se_Ilya)
+
+<h1>
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E1YmR2ZGdyN2RiMndkZ2p1Y3AzZGhybTMyYWJoOG10cnRoMGFhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iuOsonutpp56lAyInN/giphy.gif)" width="30px"/>
+</h1>
 
 # 💻 Tech Stack
 
