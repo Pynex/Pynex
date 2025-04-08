@@ -43,13 +43,15 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pynex&theme=react&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pynex&theme=react&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pynex&limit=5&theme=dark&combine_all_yearly_contributions=true)
