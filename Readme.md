@@ -50,7 +50,7 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Pynex's github stats](https://github-readme-stats.vercel.app/api?username=Pynex)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Pynex's github stats](https://github-readme-stats.vercel.app/api?username=Pynex)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
