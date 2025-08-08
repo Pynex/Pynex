@@ -1,4 +1,4 @@
-ы
+
 
 # 💫 About Me:
 Hi, I'm Ilya, a blockchain developer specializing in Solidity and smart contract development.
