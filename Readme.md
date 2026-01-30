@@ -57,5 +57,5 @@ I'm particularly interested in DeFi and exploring new possibilities with Web3 te
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pynex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Pynеx's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Pyn3x?theme=dark&bgColor=282828)](https://leetcode.com/u/Pyn3x)
+
