@@ -1,42 +1,71 @@
+# 💫 About Me
+### Hi there, I'm Ilya! 👋 
+**Blockchain Engineer | Solidity & Rust**
 
+* 🛡️ Focused on building secure and scalable **Web3 Infrastructure**.
+* ⚙️ Specializing in smart contract development using **Rust** and **Solidity**
+* 🧪 Extensive experience in **DeFi** protocols and decentralized architectures.
+* 🧠 Passionate about smart contract optimization and system design.
 
-# 💫 About Me:
-Hi, I'm Ilya, a blockchain developer specializing in Solidity and smart contract development.
-I'm particularly interested in DeFi and exploring new possibilities with Web3 technologies.<br/>
+---
 
 # 🌐 Connect with Me
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OxPynex)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-ilyhabysh62@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyhabysh62@gmail.com)
+<p align="left">
+<a href="https://t.me/OxPynex"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:ilyhabysh62@gmail.com"><img src="https://img.shields.io/badge/Gmail-ilyhabysh62@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+---
 
 # 💻 Tech Stack
 
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Foundry](https://img.shields.io/badge/Foundry-%23FF4400?style=for-the-badge&logo=none)](https://getfoundry.sh/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-orange.svg?color=orange&style=for-the-badge&logo=none)](https://hardhat.org/)
-[![Ethereum](https://img.shields.io/badge/Ethereum-%23627EEA.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/en/)
+### 👨‍💻 Programming Languages
+<p align="left">
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Solidity-363636.svg?logo=solidity&logoColor=white" alt="Solidity"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Rust-000000.svg?logo=rust&logoColor=white" alt="Rust"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?logo=go&logoColor=white" alt="Go"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="Markdown"></a>
+</p>
 
-# 📊 Stats:
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pynex&theme=react&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🏗️ Blockchain & Tools
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ethers.js-24339B?style=for-the-badge&logo=none&logoColor=white" alt="Ethers.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CosmJS-black?style=for-the-badge&logo=cosmos&logoColor=white" alt="CosmJS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Foundry-FF4400?style=for-the-badge&logo=none" alt="Foundry"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardhat-F8CC46?style=for-the-badge&logo=none&logoColor=black" alt="Hardhat"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pynex&theme=react&hide_border=false)](https://git.io/streak-stats)
+# 📊 Activity & Stats
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pynex&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pynex&theme=github_dark&hide_border=true" alt="Commits" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Pynex&theme=github_dark&hide_border=true" alt="Streak" />
+    </td>
+    <td align="center">
+      <img src="https://leetcode-badge-sage.vercel.app/badge/Pyn3x?theme=dark&bgColor=0d1117" alt="LeetCode" />
+    </td>
+  </tr>
+</table>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pynex&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--[![Pynex's github stats](https://github-readme-stats.vercel.app/api?username=Pynex)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pynex&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
-[![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pynex&theme=github_dark)](https://github.com/Pynex)
-
-[![Pynеx's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Pyn3x?theme=dark&bgColor=282828)](https://leetcode.com/u/Pyn3x)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pynex&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&title_color=ffffff" width="100%" />
+</p>
