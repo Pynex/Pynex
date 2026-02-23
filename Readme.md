@@ -60,7 +60,7 @@
       <img src="https://streak-stats.demolab.com/?user=Pynex&theme=github_dark&hide_border=true" alt="Streak" />
     </td>
     <td align="center">
-      <img src="https://leetcode-badge-sage.vercel.app/badge/Pyn3x?theme=dark&bgColor=0d1117" alt="LeetCode" />
+      <img src="https://leetcard.jacoblin.cool/Pyn3x?theme=dark&font=Karma&ext=contest" alt="LeetCode" />
     </td>
   </tr>
 </table>
